@@ -1,4 +1,4 @@
-.features-title {
+.section-features__title {
   font-size: 14px;
   line-height: calc(16 / 14);
   text-transform: uppercase;
@@ -6,21 +6,21 @@
   margin-top: 30px;
 }
 
-.features-list {
+.section-features__list {
   display: flex;
   justify-content: space-between;
 }
-.features {
+.section-features {
   padding-top: 94px;
 }
 
-.features-text {
+.section-features__text {
   font-size: 14px;
   line-height: 1.71;
   color: var(--secondary-text-color);
 }
 
-.features-icon-container {
+.section-features__icon-container {
   width: 270px;
   height: 120px;
   background-color: #f5f4fa;

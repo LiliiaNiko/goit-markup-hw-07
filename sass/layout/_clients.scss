@@ -2,7 +2,7 @@
   padding-top: 94px;
   padding-bottom: 94px;
 }
-.clients-container {
+.seaction-clients__link {
   width: 170px;
   height: 92px;
   border: 1px solid #afb1b8;
@@ -20,11 +20,11 @@
     color: var(--accent-color);
   }
 }
-.clients-list {
+.seaction-clients__list {
   display: flex;
   justify-content: space-between;
 }
 
-.clients-icon {
+.seaction-clients__icon {
   fill: currentColor;
 }

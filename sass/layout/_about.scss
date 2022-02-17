@@ -2,13 +2,13 @@
   padding-top: 94px;
   padding-bottom: 94px;
 }
-.work-img {
+.section-about__list {
   display: flex;
 }
-.img-item {
+.section-about__img {
   position: relative;
 }
-.work-top-text {
+.section-about__top-text {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -26,6 +26,6 @@
   min-width: 370px;
   min-height: 70px;
 }
-.img-item:not(:last-child) {
+.section-about__img:not(:last-child) {
   margin-right: 30px;
 }
