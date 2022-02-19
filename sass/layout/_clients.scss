@@ -1,8 +1,4 @@
-.section-clients {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
-.seaction-clients__link {
+.clients__link {
   width: 170px;
   height: 92px;
   border: 1px solid #afb1b8;
@@ -20,11 +16,11 @@
     color: var(--accent-color);
   }
 }
-.seaction-clients__list {
+.clients {
   display: flex;
   justify-content: space-between;
 }
 
-.seaction-clients__icon {
+.clients__icon {
   fill: currentColor;
 }

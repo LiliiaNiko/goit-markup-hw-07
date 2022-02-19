@@ -1,14 +1,10 @@
-.section-about {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
-.section-about__list {
+.about {
   display: flex;
 }
-.section-about__img {
+.about__img {
   position: relative;
 }
-.section-about__top-text {
+.about__top-text {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -26,6 +22,6 @@
   min-width: 370px;
   min-height: 70px;
 }
-.section-about__img:not(:last-child) {
+.about__img:not(:last-child) {
   margin-right: 30px;
 }
