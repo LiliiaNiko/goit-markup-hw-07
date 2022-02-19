@@ -1,7 +1,7 @@
 .about {
   display: flex;
 }
-.about__img {
+.about__item {
   position: relative;
 }
 .about__top-text {
@@ -22,6 +22,6 @@
   min-width: 370px;
   min-height: 70px;
 }
-.about__img:not(:last-child) {
+.about__item:not(:last-child) {
   margin-right: 30px;
 }
